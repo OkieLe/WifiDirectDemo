@@ -1,3 +1,6 @@
 [submodule "wifip2p"]
 	path = wifip2p
 	url = git@github.com:boopited/wifip2p.git
+[submodule "wifiaware"]
+	path = wifiaware
+	url = git@github.com:boopited/wifiaware.git

@@ -1,2 +1,3 @@
 include ':app', ':wifip2p'
 rootProject.name='WifiDirectdemo'
+include ':wifiaware'
